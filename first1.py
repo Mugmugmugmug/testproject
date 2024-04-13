@@ -5,4 +5,7 @@ a = np.array([[1,2,3],
               [7,8,9],
               [0,1,2]])
 print(a[:,-1:])
+print("\n")
 print(a[:,2:3])
+print("\n")
+print(a[1:3,1:2])
